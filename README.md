@@ -1,5 +1,5 @@
-<h1 align="center">Hola, mi nombre es Juan Carlos Bienvenido a mi GitHub 👋</h1>
-
+<img src="https://github.com/juancarlos-code-usu/juancarlos-code-usu/blob/main/Image%2025%20abr%202026,%2003_36_44.png?raw=true"/>
+<h1 align="center">Hola, mi nombre es Juan Carlos.👋</h1>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mi%20Portafolio&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
