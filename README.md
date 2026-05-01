@@ -14,7 +14,7 @@
 </p>
 
 -->
-**desarrollador Freelance fullstack.**
+**desarrollador Freelance full stack.**
 
 soy estudiante de Ingeniería software.
 
